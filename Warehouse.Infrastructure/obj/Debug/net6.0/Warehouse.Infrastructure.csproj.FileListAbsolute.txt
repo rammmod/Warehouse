@@ -1,0 +1,15 @@
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.deps.json
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.pdb
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\WarehouseApi.Domain.dll
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\WarehouseApi.Domain.pdb
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.AssemblyInfo.cs
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehous.C6D6500E.Up2Date
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\refint\Warehouse.Infrastructure.dll
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.pdb
+C:\Users\rammm\Desktop\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\ref\Warehouse.Infrastructure.dll

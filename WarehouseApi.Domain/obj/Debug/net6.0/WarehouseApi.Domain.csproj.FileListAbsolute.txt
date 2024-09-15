@@ -1,0 +1,12 @@
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\bin\Debug\net6.0\WarehouseApi.Domain.deps.json
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\bin\Debug\net6.0\WarehouseApi.Domain.dll
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\bin\Debug\net6.0\WarehouseApi.Domain.pdb
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.csproj.AssemblyReference.cache
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.AssemblyInfoInputs.cache
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.AssemblyInfo.cs
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.dll
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\refint\WarehouseApi.Domain.dll
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\WarehouseApi.Domain.pdb
+C:\Users\rammm\Desktop\Warehouse\WarehouseApi.Domain\obj\Debug\net6.0\ref\WarehouseApi.Domain.dll
